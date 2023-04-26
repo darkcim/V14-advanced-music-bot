@@ -1,2 +1,4 @@
 # V14--advanced-music-bot
-About Current v14 Discord Music Bot, Supporting All Platforms,/Güncel v14 Discord Muzik Botu,Tüm Platformları Destekleyen ve kesilmeye yaşanmayan müzik bot
+EN;It is a bot made with discord js v14. Most bots in the market are cut or interrupted, use it but is solid.don't forget to star 
+TR;discord js v14 ile yapılmış bir bottur piyasada çoğu bot kesiliyor veya yarıda kalıyor alın sağlamdır kullanın.Star Atmayı unutma
+
